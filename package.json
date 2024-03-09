@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-bookworms/",
+    "build": "vite build --base=/js_99_NikOvchinnik/",
     "preview": "vite preview"
   },
   "devDependencies": {
